@@ -1,0 +1,5 @@
+name = input("Hi! What is your name?")
+print("We want to know if you like progamming!\n")
+answer = input("Do you like programming, " + name + "?")
+print("Great, " + name + "! You said " + answer + "!")
+print("Let's learn some Python today")
